@@ -1,0 +1,52 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Test/Test.csproj",
+    "projectName": "Test",
+    "projectPath": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Test/Test.csproj",
+    "outputPath": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Test/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Client/Client.csproj": {
+            "projectPath": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Client/Client.csproj"
+          },
+          "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/Server.csproj": {
+            "projectPath": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/Server.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "15.3.0-preview-20170628-02"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.2.0"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "2.2.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

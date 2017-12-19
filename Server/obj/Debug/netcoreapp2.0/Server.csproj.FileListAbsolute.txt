@@ -1,0 +1,9 @@
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/bin/Debug/netcoreapp2.0/Server.deps.json
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/bin/Debug/netcoreapp2.0/Server.runtimeconfig.json
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/bin/Debug/netcoreapp2.0/Server.runtimeconfig.dev.json
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/bin/Debug/netcoreapp2.0/Server.dll
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/bin/Debug/netcoreapp2.0/Server.pdb
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/obj/Debug/netcoreapp2.0/Server.csproj.CoreCompileInputs.cache
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/obj/Debug/netcoreapp2.0/Server.dll
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/obj/Debug/netcoreapp2.0/Server.pdb
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/obj/Debug/netcoreapp2.0/Server.csprojResolveAssemblyReference.cache

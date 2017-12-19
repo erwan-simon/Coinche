@@ -1,0 +1,10 @@
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/bin/Debug/netcoreapp2.0/AI.deps.json
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/bin/Debug/netcoreapp2.0/AI.runtimeconfig.json
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/bin/Debug/netcoreapp2.0/AI.runtimeconfig.dev.json
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/bin/Debug/netcoreapp2.0/AI.dll
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/bin/Debug/netcoreapp2.0/AI.pdb
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/bin/Debug/netcoreapp2.0/Server.dll
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/bin/Debug/netcoreapp2.0/Server.pdb
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/obj/Debug/netcoreapp2.0/AI.csproj.CoreCompileInputs.cache
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/obj/Debug/netcoreapp2.0/AI.dll
+/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/obj/Debug/netcoreapp2.0/AI.pdb

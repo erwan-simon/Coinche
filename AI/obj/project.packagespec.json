@@ -1,0 +1,37 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/AI.csproj",
+    "projectName": "AI",
+    "projectPath": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/AI.csproj",
+    "outputPath": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/AI/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/Server.csproj": {
+            "projectPath": "/home/erwan/Code/teck/dotNet/DOT_cardGames_2017/Server/Server.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
