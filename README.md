@@ -1,10 +1,9 @@
 # DOT_cardGames_2017
 
+Client/server multiplayer Coinche game in C#, using the .NET Core framework. 
+
 ## Prerequisites
 
-What things you need to install the software and how to install them
-
-* Linux
 * dotnet installed
 
 ## Getting started
@@ -55,7 +54,6 @@ dotnet test Test
 
 ## Authors
 
-* **Antoine Roche** - *kayou*
 * **Erwan Simon** - *GladToBeInsane*
 
 ## License
