@@ -1,6 +1,4 @@
-# Project Title
-
-DOT_cardGames_2017
+# DOT_cardGames_2017
 
 ## Prerequisites
 
