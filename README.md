@@ -54,7 +54,7 @@ dotnet test Test
 
 ## Authors
 
-* **Erwan Simon** - *GladToBeInsane*
+* **Erwan Simon**
 
 ## License
 
